@@ -1,2 +1,2 @@
 # First-client
-This it my first git clint.
+This it my first git client.
